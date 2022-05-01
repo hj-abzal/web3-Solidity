@@ -1,4 +1,4 @@
-import {Navbar, Welcome, Footer, Loader, Services, Transactions} from "./components";
+import {Navbar, Welcome, Footer, Services, Transactions} from "./components";
 
 export const App = () => {
   return (
